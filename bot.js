@@ -271,7 +271,7 @@ client.on('message', async message => {
   if(message.content.toLowerCase().startsWith(`${config.prefix}khelp`)){
         var embedd = new Discord.MessageEmbed()
           .setTitle(`Menu`)
-          .setDescription(`My prefix is ?`)
+          .setDescription(`My prefix is ${config.prefix}`)
           .addField(`?reply`, `to reply a thread.`, false)
           .addField(`?areply`, `to reply a thread anonymously.`, false)
           .addField(`?block`, `to block user from dming bot.`, false)
@@ -315,4 +315,4 @@ client.on("message", async message => {
   }  
 })
 
-client.login('ODMyNTM0NDM3ODIzNjQzNjU4.YHlMHQ.0ftecsjuVuEmxSYPZr1o7mNUBsM'); // Log the bot in
+client.login('TOKEN'); // Log the bot in
