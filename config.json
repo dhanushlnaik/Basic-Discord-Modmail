@@ -1,10 +1,10 @@
 {
-	"guild": "725612078764785694",
-	"log": "826371795497123850",
-	"prefix": "?",
+	"guild": "SERVER ID",
+	"log": "LOG CHANNEL ID",
+	"prefix": "YOUR_PREFIX",
 	"roles": {
-		"bot": "752395836763406446",
-		"mod": "725660115998343178"
+		"bot": "BOT ROLE ID",
+		"mod": "MOD_ROLE_ID"
 	},
-	"ticketCategory": "826371794486820864"
+	"ticketCategory": "MODMAIL_CATEGORY_ID"
 }
