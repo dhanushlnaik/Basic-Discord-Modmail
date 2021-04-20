@@ -1,2 +1,2 @@
-# Basic-Discord-Modmail
-A feature rich discord Modmail bot. (JS)
+# Discord.JS 12.4.1 Modmail
+A modmail with rich features.
